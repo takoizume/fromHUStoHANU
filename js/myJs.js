@@ -1,23 +1,26 @@
 const textConfig = {
-  text1: "Happy birthdayyy ♡",
-  text2: "Chúc mừng sinh nhật chị P. Hy vọng những may mắn và tốt đẹp sẽ đến trong thời gian tới, mà nếu khum thì cũng chẳng sao vì em chúc nó sẽ trở thành những trải nghiệm hay ho và đáng nhớ đối với chị. Mong c có nhiều sức khỏe, tràn đầy năng lượng để theo đuổi và làm những điều mình muốn một cách thuận với cả lý trí và cảm xúc nhất hehe",
-  text3: `
-          Hãy có một ngày thật là vuiiii nhé?
-          Cf ik chị :>`,
-  text4: `Nhớ lại năm ngoái =)) sn e cho chị hẳn 2p để chúc.
-          Kiểu mấy năm gần đây e cũng quen tắt hết thông báo r khum ai nhớ, cứ nhẹ nhàng tận hưởng một mình, ngày vẫn bao nhiêu là việc với thiếu ngủ @@
-          cái hôm đó chiều còn đi họp ban với c, k biết c có để ý k nhưng e vẫn nhắn đùa c là người may mắn được chọn =)) 
-          bằng một cách nào đấy e luôn cảm thấy dễ mở lòng để nhắn chuyện riêng hoặc mấy cái nhảm nhí với chị cơ .-.
-          với e thì, dù chỉ là một mẩu vỏn vẹn 2 phút nhưng như thế cũng đã đủ làm nên 1 ngày r ^^  còn c thì nên có nhiều hơn 2 phút, nên là cf đi c`,
-  text5: "khum hahahah",
-  text6: "yess nhất định",
-  text7: "nhớ mua mì trẻ em cho em đấy ☻",
+  text1: "Chúc mừng 20/10 muộn ♡",
+  text2: "Nếu cậu đang đọc được trang này thì mật thư đã thành công gửi tới từ phương trời HUS mà ko bị lạc trôi giữa đường. Oh yeahh",
+  text3: `Hy vọng cậu đã có một ngày 20/10 thật vui!
+    
+         `,
+  text4: `Chúc bạn gái tớ sắp quen luôn vui vẻ tươi tắn để đón nhận nhiều điều mới mẻ trong cuộc sống nhé (tớ chẳng hạn :v) 
+        Thực ra hôm trước tớ đã quay lại góc hành lang nhắn cậu, ở thì... hoa đã héo rũ ̶n̶h̶ư̶ ̶t̶ư̶ơ̶n̶g̶ ̶l̶a̶i̶ ̶c̶ủ̶a̶ ̶c̶h̶ú̶n̶g̶ ̶t̶a̶ ̶v̶ậ̶y̶ .
+        Dù hình tượng thực-vật-học này cũng chính là nội dung trọng tâm trong bài thơ tớ định đọc cậu nghe - ko có gì bất ngờ cả - 
+        nhưng tớ chỉ sợ làm cậu thất vọng thôi (nếu cậu thực sự đã tìm chỗ đó) 😭 Tí nữa cậu có thể xem ảnh tớ chụp lúc trước nhe :))
+  `,
+  text5: "Tớ buồn vì cậu lừa t (CẤM BẤM - thử xem)",
+  text6: "Tớ sẽ sang HUS thăm lại 🥰",
+  text7: "Nếu tìm được nhau cậu hứa cho mình cái gì í",
   text8: "hứa!",
-  text9: "oke luôn khi nào gặp mua cho hẳn 10 gói nhó :>",
-  text10: "D: đến giờ học r",
+  text9: "... (ừ thì tớ cũng ko vã đến mức ép thoại cậu 👉🏻👈🏻 dù ta đang ở cái nơi đc thiết kế để làm điều đó)",
+  text10: "Rất vui được làm quen!",
   text11:
-    "xem webinar nhé chị :)) e k biết tặng gì ngoài cái này nữa :)) nếu có hứng thú về thuốc thì chắc là nó sẽ có ích. e thì vẫn đang mông lung ~~~ chắc cần c giúp đỡ nhiều",
-  text12: "xem thử",
+    `Nhắn lại một câu cho người ta biết thư không bị mấy anh điệp viên khoa IT bên cậu lấy mất nhé.
+    Cậu sẽ thấy pass và ảnh tớ chụp, và bất kỳ thứ gì khác bỗng nhiên tớ nghĩ ra mà cậu ko thấy phiền để đọc ~~ 
+    Sau khi nhận đúng người tớ sẽ mở quyền sửa file cho cậu để có thể chatchit ẩn danh nếu muốn - mà ko phiền đến bạn PTIT chủ thớt (tội bạn 😥)
+    `,
+  text12: "Xemmm",
 };
 
 $(document).ready(function () {
@@ -144,7 +147,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/playlist?list=PLuu93uG13bhAjqweoZ51SCBT3yypALkWt";
+            window.location = "https://docs.google.com/spreadsheets/d/1_CPlJyPO0SUwW8dcorrB7knbooIRduHDZK9Y3xVNstg/edit?gid=0#gid=0";
           },
         });
       }
