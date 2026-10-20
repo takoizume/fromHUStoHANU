@@ -4,8 +4,8 @@ const textConfig = {
   text3: `Hy vọng cậu đã có một ngày 20/10 thật vui!
     
          `,
-  text4: `Chúc bạn gái tớ sắp quen luôn vui vẻ tươi tắn để đón nhận nhiều điều mới mẻ trong cuộc sống nhé (tớ chẳng hạn :v) 
-        Thực ra hôm trước tớ đã quay lại góc hành lang nhắn cậu, ở thì... hoa đã héo rũ ̶n̶h̶ư̶ ̶t̶ư̶ơ̶n̶g̶ ̶l̶a̶i̶ ̶c̶ủ̶a̶ ̶c̶h̶ú̶n̶g̶ ̶t̶a̶ ̶v̶ậ̶y̶ .
+  text4: `Chúc bạn nữ tớ sắp quen luôn vui vẻ tươi tắn để đón nhận nhiều điều mới mẻ trong cuộc sống nhé (tớ chẳng hạn :v) 
+        Thực ra hôm trước tớ đã quay lại góc hành lang nhắn cậu, ờ thì... hoa đã héo rũ ̶n̶h̶ư̶ ̶t̶ư̶ơ̶n̶g̶ ̶l̶a̶i̶ ̶c̶ủ̶a̶ ̶c̶h̶ú̶n̶g̶ ̶t̶a̶ ̶v̶ậ̶y̶ .
         Dù hình tượng thực-vật-học này cũng chính là nội dung trọng tâm trong bài thơ tớ định đọc cậu nghe - ko có gì bất ngờ cả - 
         nhưng tớ chỉ sợ làm cậu thất vọng thôi (nếu cậu thực sự đã tìm chỗ đó) 😭 Tí nữa cậu có thể xem ảnh tớ chụp lúc trước nhe :))
   `,
