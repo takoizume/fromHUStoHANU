@@ -25,6 +25,9 @@ const textConfig = {
 
 $(document).ready(function () {
   // process bar
+  $("#yes").css("top", "75%");
+  $("#no").css("top", "75%");
+  
   setTimeout(function () {
     firstQuestion();
     $(".spinner").fadeOut();
