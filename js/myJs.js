@@ -13,7 +13,7 @@ const textConfig = {
   text6: "Tớ sẽ sang HUS thăm lại 🥰",
   text7: "Nếu tìm được nhau cậu hứa cho mình cái gì í",
   text8: "hứa!",
-  text9: "... (tớ ko muốn ép thoại cậu 👉🏻👈🏻 dù ta đang ở cái nơi đc thiết kế để làm điều đó)",
+  text9: "... (tớ ko muốn ép thoại cậu 👉👈 dù ta đang ở cái nơi đc thiết kế để làm điều đó)",
   text10: "Rất vui được làm quen!",
   text11:
     `Nhắn lại một câu cho người ta biết thư không bị mấy anh điệp viên khoa IT bên cậu lấy mất nhé.
