@@ -120,18 +120,18 @@ $(document).ready(function () {
     audio.play();
 
     // Kiểm tra nếu là điện thoại thì thu nhỏ chiều rộng và đệm lại
-    var isMobile = screen.width <= 600;
+    //var isMobile = screen.width <= 600;
 
     
     Swal.fire({
       title: textConfig.text7,
       html: true,
-      //width: 900,
-      //padding: "3em",
-      width: isMobile ? "92%" : 600,
-      padding: isMobile ? "1.5em" : "3em",
-      //html: "<input type='text' class='form-control' id='txtReason'  placeholder='.....'>",
-      html: "<textarea class='form-control' id='txtReason' placeholder='.....' rows='3' style='width: 100%; font-size: 14px; text-align: center; resize: none; padding: 10px; border-radius: 10px; line-height: 1.4;'></textarea>",
+      width: 900,
+      padding: "3em",
+      //width: isMobile ? "92%" : 600,
+      //padding: isMobile ? "1.5em" : "3em",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='.....'>",
+      //html: "<textarea class='form-control' id='txtReason' placeholder='.....' rows='3' style='width: 100%; font-size: 14px; text-align: center; resize: none; padding: 10px; border-radius: 10px; line-height: 1.4;'></textarea>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
