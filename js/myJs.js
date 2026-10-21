@@ -4,10 +4,13 @@ const textConfig = {
   text3: `Hy vọng cậu đã có một ngày 20/10 thật vui!
     
          `,
-  text4: `Chúc bạn nữ tớ sắp quen luôn vui vẻ tươi tắn để đón nhận nhiều điều mới mẻ trong cuộc sống nhé (tớ chẳng hạn :v) 
+  text4: `Chúc bạn nữ tớ sắp quen luôn vui vẻ tươi tắn để đón nhận nhiều điều mới mẻ trong cuộc sống nhé (tớ chẳng hạn :v) <br><br>
+  
         Thực ra hôm trước tớ đã quay lại góc hành lang nhắn cậu, ờ thì... hoa đã héo rũ ̶n̶h̶ư̶ ̶t̶ư̶ơ̶n̶g̶ ̶l̶a̶i̶ ̶c̶ủ̶a̶ ̶c̶h̶ú̶n̶g̶ ̶t̶a̶ ̶v̶ậ̶y̶.
         Dù hình tượng này cũng chính là nội dung trọng tâm trong bài thơ tớ định đọc cậu nghe,
-        nhưng tớ chỉ sợ làm cậu thất vọng thôi (nếu cậu thực sự đã tìm chỗ đó) 😭 Tí nữa cậu có thể xem ảnh tớ chụp lúc trước nhe :))
+        nhưng tớ chỉ sợ làm cậu thất vọng thôi (nếu cậu thực sự đã tìm chỗ đó) 😭 <br><br>
+        
+        Tí nữa cậu có thể xem ảnh tớ chụp lúc trước nhe :))
   `,
   text5: "Tớ buồn vì cậu lừa t (CẤM BẤM - thử xem)",
   text6: "Tớ sẽ sang HUS thăm lại 🥰",
@@ -25,8 +28,8 @@ const textConfig = {
 
 $(document).ready(function () {
   // process bar
-  $("#yes").css("top", "80");
-  $("#no").css("top", "80%");
+  //$("#yes").css("top", "80");
+  //$("#no").css("top", "80%");
   
   setTimeout(function () {
     firstQuestion();
